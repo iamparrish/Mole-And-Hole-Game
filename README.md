@@ -6,7 +6,6 @@ A fun, reflex-based browser game where players whack moles as they pop up from r
 ![CSS](https://img.shields.io/badge/CSS-38.8%25-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-36.5%25-yellow)
 
----
 
 ## 🎮 About the Game
 
@@ -14,7 +13,6 @@ Moles randomly appear from holes scattered across the game board. Click or tap o
 
 Simple to pick up, tough to master — the perfect reflex trainer!
 
----
 
 ## ✨ Features
 
@@ -24,7 +22,6 @@ Simple to pick up, tough to master — the perfect reflex trainer!
 - Clean, responsive UI built with vanilla HTML, CSS, and JavaScript
 - No installation or dependencies required — runs directly in the browser
 
----
 
 ## 🚀 Getting Started
 
@@ -41,7 +38,6 @@ cd Mole-And-Hole-Game
 
 Open `index.html` in your browser — that's it!
 
----
 
 ## 🗂️ Project Structure
 
@@ -53,7 +49,6 @@ Mole-And-Hole-Game/
 └── img/            # Game images (moles, holes, etc.)
 ```
 
----
 
 ## 🕹️ How to Play
 
@@ -62,7 +57,6 @@ Mole-And-Hole-Game/
 3. Click/tap a mole before it disappears to score a point.
 4. Each level speeds up the moles. Survive as long as you can!
 
----
 
 ## 🛠️ Built With
 
@@ -70,7 +64,6 @@ Mole-And-Hole-Game/
 - **CSS3** — Styling, animations, and responsive design
 - **Vanilla JavaScript** — Game logic, timers, and score tracking
 
----
 
 ## 🤝 Contributing
 
@@ -82,15 +75,7 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-
 ## 👤 Author
 
 **iamparrish**
 - GitHub: [@iamparrish](https://github.com/iamparrish)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
